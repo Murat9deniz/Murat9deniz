@@ -28,4 +28,4 @@ Barcelona, Spain | MSc Candidate in Data Science & Business Analytics
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com) | Email: murat.deniz@example.com
+📫 Connect with me: https://www.linkedin.com/in/murat-deniz-63a78b203/?isSelfProfile=true | Email: murat.deniz@gmail.com
